@@ -1,0 +1,1 @@
+itic3 = ["eduardo flores", "rainer gael rivera rodriguez", "maria del rosario"]
