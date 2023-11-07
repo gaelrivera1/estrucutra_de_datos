@@ -2,7 +2,25 @@
 ## rainer gael rivera rodriguez
 ### estructura de datos# estrucutra_de_datos
 
+### unidad 1
 
+Algoritmo: Un algoritmo es un conjunto de instrucciones o reglas precisas y finitas que describe cómo realizar una tarea o resolver un problema específico. Los algoritmos son utilizados en diversas áreas, desde matemáticas y ciencias de la computación hasta problemas cotidianos.
+
+estructura de datos: Una estructura de datos es una forma de organizar y almacenar datos para que puedan ser utilizados y manipulados de manera eficiente. Las estructuras de datos proporcionan un marco para la organización y el acceso a los datos en programas informáticos.
+
+datos: se refiere a la información que se manipula y procesa dentro de un programa. Los datos pueden representar cualquier tipo de información, desde números y texto hasta imágenes, sonidos o estructuras más complejas.
+
+informacion: La información es un concepto fundamental que se refiere al conocimiento o datos que han sido procesados y organizados de tal manera que tienen significado y utilidad para el receptor o usuario. En el contexto de la informática y la tecnología, la información se refiere a datos que han sido interpretados y presentados de manera que tienen valor para los humanos o para los sistemas que la utilizan.
+
+metadatos: Los metadatos describen características esenciales de los datos, como su origen, formato, contenido, autor, fecha de creación, y más. Su propósito es proporcionar contexto y facilitar la interpretación y administración de los datos.
+
+bigData: es un término que se utiliza para describir conjuntos de datos extremadamente grandes y complejos que son difíciles de gestionar y procesar con las herramientas tradicionales de bases de datos.
+
+ciencia de datos: es un campo interdisciplinario que utiliza métodos, procesos, algoritmos y sistemas científicos para extraer conocimiento y perspicacia de datos en diversas formas. La ciencia de datos combina elementos de estadísticas, matemáticas, informática y dominio del tema para analizar y comprender fenómenos complejos.
+
+base de datos:Las bases de datos son sistemas organizados para almacenar y gestionar datos de manera estructurada.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### unidad 2
 
@@ -73,3 +91,40 @@ de su ejecucion.
 
 Estructua de datos estaticos: son aquellas en la que el tamaño ocupado en la memoria se define antes de que el programa se ejecute 
 y no pueda modificarse mientraas se ejecute.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+### unidad 3
+
+## estructura de datos liniales
+
+recursividad: La recursión o recursividad es la forma en la cual se especifica un proceso basado en su propia definición.
+
+Arboles: Los árboles son estructuras no lineales al contrario a estructuras lineales como lo son los arreglos y las listas.
+
+grafos: es un tipo abstracto de datos (TAD), que consiste en un conjunto de nodos (también llamados vértices) y un conjunto de arcos (aristas) que establecen relaciones entre los nodos.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+### unidad 4
+## metodo de ordenamiento y busqueda
+
+metodo de ordenamiento:  algoritmo que permuta los datos de una estructura en una secuencia determinada
+
+# componentes de un diagrama de flujo:
+
+Terminador (Inicio/Fin): Se representa por un óvalo y marca el inicio o el final del proceso.
+
+Proceso: Se representa por un rectángulo y describe una acción o operación específica que ocurre en el flujo del proceso.
+
+Entrada/Salida: Se representa por un paralelogramo y representa la entrada o salida de datos.
+
+Decisión: Se representa por un rombo y se utiliza para representar una condición o una pregunta que puede ser respondida con "sí" o "no". Dependiendo de la respuesta, el flujo se dirige a diferentes ramas.
+
+Conector: Se utiliza para conectar diferentes partes del diagrama cuando la secuencia no sigue un orden lineal.
+
+Flechas de Flujo: Indican la dirección del flujo del proceso, conectando los diferentes símbolos.
+
+Conector Off-Page: Se utiliza para conectar partes del diagrama que están en diferentes páginas.
+
+Documentos: Se representa por un rectángulo con esquinas dobladas y se utiliza para representar un documento o un informe.
